@@ -10,7 +10,7 @@ Este repositorio recopila las prácticas más importantes de la materia *Laborat
 
 ### Secciones
 _______
-1. [Manejo de APIs](https://github.com/paul4267419x/PIA-laboratorio-de-programaci-n-para-ciberseguridad/tree/master/Manejo%20de%20APIs)
+1. [Manejo de APIs]()
 2. [Scripting en PowerShell]()
 3. [Scripting en Bash]()
 4. [Encoding & Decoding]()
@@ -19,4 +19,4 @@ _______
 7. [FTP]()
 8. [Escáner de Puertos]()
 9. [Envio de Correos]()
-10. [Automatización de Tareas]()
+10. [Automatización de Tareas](https://github.com/paul4267419x/PIA-Laboratorio-Programacion/tree/main/Automatizaci%C3%B3n%20de%20Tareas)
