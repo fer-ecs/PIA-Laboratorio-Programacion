@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script netdiscover.sh
-# 23/09/22 - Daniel Arreaga Escareño
+# 23/09/22 - Fermín Isaí Estrada Vera
 # Matricula: 2006470
 #
 # Determinando el segmento de red
